@@ -257,6 +257,10 @@ def weave_carpet(width, height):
     XO
     OX
     XO
+    >>> weave_carpet(4,3)
+    XOXO
+    OXOX
+    XOXO
     """
     # Your code goes here!
     pass  # Remove me after starting
